@@ -51,7 +51,7 @@
 
 ---
 
-> ### ⚙️ Configuração da Redundância de Arquivos no Azure
+> #### ⚙️ Configuração da Redundância de Arquivos no Azure
 
 #### 1° - Criar uma Conta de Armazenamento
 
@@ -82,7 +82,7 @@
 
 ---
 
-> ### 🏗️ Construção do Processo de Redundância de Arquivos na Azure
+> #### 🏗️ Construção do Processo de Redundância de Arquivos na Azure
 
 #### 1° - Criar Recursos no Azure
 
