@@ -101,7 +101,7 @@
 
 <br />
 
-### ✔️ GERENCIAR AS FUNCIONALIDADES
+### ✔️ Gerenciar as funcionalidades
 
 <br />
 
@@ -191,7 +191,7 @@
 
 ---
 
-> #### 🛠️ FERRAMENTAS UTILIZADAS
+> #### 🛠️ Ferramentas utilizadas
 
 - Microsoft Azure (🌍 Plataforma Cloud)
 - Azure Data Factory (🛠 Orquestração de Dados)
@@ -199,7 +199,7 @@
 
 ---
 
-> #### 🧩 TIPO DE DESAFIO
+> #### 🧩 Tipo de desafio
 
 - Básico.
 
