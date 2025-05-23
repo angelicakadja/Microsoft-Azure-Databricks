@@ -99,7 +99,7 @@
 #### 3° - Configurar Integration Runtime Self-hosted
 
 - No Azure Data Factory, vá em <b>Manage >> Integration Runtimes >> New</b>.
-- Escolha <b>Self-hosted\*\* e siga o assistente:
+- Escolha <b>Self-hosted</b> e siga o assistente:
   - Baixe o instalador (modo express ou manual).
   - Instale no servidor local (on-premises).
   - Configure com a chave gerada pelo ADF.
