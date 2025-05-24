@@ -165,10 +165,9 @@ Em ambientes como Azure DevOps, ele é essencial para projetos escaláveis e de 
 
 > ### 🔗 Referências
 
-- [Introdução ao Azure Databricks](https://learn.microsoft.com/pt-br/training/modules/intro-to-azure-databricks/)
-- [Engenharia de Dados com Azure Databricks](https://learn.microsoft.com/pt-br/training/paths/data-engineer-azure-databricks/)
-- [Ciência de Dados com Azure Databricks](https://learn.microsoft.com/pt-br/training/paths/perform-data-science-azure-databricks/)
-- [DevOps School](https://www.devopsschool.com/blog/what-is-microsoft-azure-notebooks-and-use-cases-of-microsoft-azure-notebooks/)
+- Copilot integrado ao Microsoft 365
+- [Gênio do Desenvolvimento](https://blog.devgenius.io/ci-cd-in-azure-data-factory-using-azure-devops-5df2643c9fb1)
+- [Vrogue](https://www.vrogue.co/post/basic-process-templates-in-azure-devops-vrogue-co)
 
 ---
 
